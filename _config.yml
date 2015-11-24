@@ -1,0 +1,28 @@
+name: CIC Technology
+favicon: null
+layout_spectrum: 0.2650361268315464
+typography_spectrum: 0.30048095947131515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5170228995848447
+  lightness: 0.9724019097629935
+  saturation: 0.2350972096901387
+  rhythmicContrast: 0.9252661536447704
+purpose: []
